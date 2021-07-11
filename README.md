@@ -3,4 +3,4 @@
 This is my GitHub project. I published it directly from Visual Studio Code.
 
 Testing static and dynamic libraries in C.
-test
+This is a change made from another computer in Visual Studio Code.
